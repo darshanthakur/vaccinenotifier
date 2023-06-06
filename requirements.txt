@@ -1,0 +1,4 @@
+sendgrid==6.7.0
+twilio==6.8.2
+requests==2.22.0
+schedule==0.3.2
