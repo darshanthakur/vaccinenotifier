@@ -6,7 +6,7 @@ This project aims to enhance the vaccine slot booking experience by providing us
 
 1. **Display Vaccination Center Details:** This option allows users to view the details of all vaccination centers in a specified district (based on their postal code). The information includes the center name, address, available vaccine types, and slot availability.
 
-2. **Real-time Notification:** Users can opt to receive real-time notifications when vaccines become available in their selected district. Notifications are sent via Telegram group, text message, and email. This feature ensures that users can quickly book their vaccination slots as soon as they become available, increasing the efficiency of the vaccination process.
+2. **Real-time Notification:** Users can opt to receive real-time notifications when vaccines become available in their selected district. Notifications are sent via Telegram group, text message, and email. This feature ensures that users can quickly book their vaccination slots as soon as they become available, increasing the efficiency of the slot booking process.
 
 ## Technologies Used
 
